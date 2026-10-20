@@ -1,0 +1,28 @@
+{
+  "$schema": "https://living-code.dev/port.schema.json",
+  "schemaVersion": 1,
+  "name": "Windows Terminal",
+  "slug": "windows-terminal",
+  "group": "Terminals",
+  "emoji": "🪟",
+  "description": "Living Code for Windows Terminal. Repository-owned theme files, installation instructions and four color flavors.",
+  "homepage": "https://github.com/microsoft/terminal",
+  "quick": "See installation instructions",
+  "aliases": [
+    "windows-terminal"
+  ],
+  "flavors": [
+    "night",
+    "frost",
+    "paper",
+    "signal"
+  ],
+  "files": [
+    "living-code-frost.json",
+    "living-code-night.json",
+    "living-code-paper.json",
+    "living-code-signal.json",
+    "living-code.json"
+  ],
+  "images": []
+}
