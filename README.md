@@ -5,10 +5,6 @@
 
 [Installation](#installation) · [Flavors](#flavors) · [Configuration](#configuration) · [All ports](https://github.com/living-code-theme)
 
-## Previews
-
-Real application screenshots have not been captured yet.
-
 ## Installation
 
 Run this in PowerShell. It saves a [JSON fragment](https://learn.microsoft.com/en-us/windows/terminal/json-fragment-extensions) that Windows Terminal loads by itself, so nothing in `settings.json` is edited:
@@ -27,12 +23,10 @@ Fallback: paste the scheme objects from `living-code-*.json` into the `schemes` 
 
 ## Flavors
 
-Expand a flavor for its full-size preview and activation instructions.
+Expand a flavor for its activation instructions.
 
 <details data-lc-flavor="night">
 <summary><strong>Night</strong> · Dark · full palette</summary>
-
-A real application capture is not available yet.
 
 Select **Living Code Night** in your profile's Appearance settings, or set:
 
@@ -45,8 +39,6 @@ Select **Living Code Night** in your profile's Appearance settings, or set:
 <details data-lc-flavor="frost">
 <summary><strong>Frost</strong> · Dark · softer chroma</summary>
 
-A real application capture is not available yet.
-
 Select **Living Code Frost** in your profile's Appearance settings, or set:
 
 ```json
@@ -58,8 +50,6 @@ Select **Living Code Frost** in your profile's Appearance settings, or set:
 <details data-lc-flavor="paper">
 <summary><strong>Paper</strong> · Light · near-white slate</summary>
 
-A real application capture is not available yet.
-
 Select **Living Code Paper** in your profile's Appearance settings, or set:
 
 ```json
@@ -70,8 +60,6 @@ Select **Living Code Paper** in your profile's Appearance settings, or set:
 
 <details data-lc-flavor="signal">
 <summary><strong>Signal</strong> · Dark · teal accent</summary>
-
-A real application capture is not available yet.
 
 Select **Living Code Signal** in your profile's Appearance settings, or set:
 
